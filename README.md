@@ -1,4 +1,4 @@
-# Student Report Management System (SRMS)
+# Student Report Management System (srms-c)
 
 A simple **C-based project** that manages student records using file handling.  
 This system supports role-based login and allows different levels of access.
